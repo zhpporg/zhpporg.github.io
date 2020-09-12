@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parents on Zion&#39;s Hill Preschool Program</title>
-    <link>http://zhpp.org/parents/</link>
+    <link>http://zhpporg.github.io/parents/</link>
     <description>Recent content in Parents on Zion&#39;s Hill Preschool Program</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Sep 2020 00:54:29 -0400</lastBuildDate>
     
-	<atom:link href="http://zhpp.org/parents/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zhpporg.github.io/parents/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fundraising</title>
-      <link>http://zhpp.org/parents/fundraising/</link>
+      <link>http://zhpporg.github.io/parents/fundraising/</link>
       <pubDate>Fri, 11 Sep 2020 00:55:43 -0400</pubDate>
       
-      <guid>http://zhpp.org/parents/fundraising/</guid>
+      <guid>http://zhpporg.github.io/parents/fundraising/</guid>
       <description></description>
     </item>
     

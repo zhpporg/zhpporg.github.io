@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programs on Zion&#39;s Hill Preschool Program</title>
-    <link>http://zhpp.org/programs/</link>
+    <link>http://zhpporg.github.io/programs/</link>
     <description>Recent content in Programs on Zion&#39;s Hill Preschool Program</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Sep 2020 00:51:13 -0400</lastBuildDate>
     
-	<atom:link href="http://zhpp.org/programs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zhpporg.github.io/programs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Curriculum</title>
-      <link>http://zhpp.org/programs/curriculum/</link>
+      <link>http://zhpporg.github.io/programs/curriculum/</link>
       <pubDate>Fri, 11 Sep 2020 00:51:13 -0400</pubDate>
       
-      <guid>http://zhpp.org/programs/curriculum/</guid>
+      <guid>http://zhpporg.github.io/programs/curriculum/</guid>
       <description></description>
     </item>
     
