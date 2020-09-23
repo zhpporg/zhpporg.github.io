@@ -177,11 +177,11 @@ div#custom-full-background{ position: fixed; top: -50%; left: -50%; width: 200%;
 div#custom-full-background img{ position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto;	min-width: 50%; min-height: 50%; z-index: -1; }
 div.container{ }
 .preloader { display: block; background:url(images/loading.gif) center center no-repeat; }
-	
+
 /*--- Header ---*/
 div.header-wrapper{ position: relative; margin: 0px 20px; }
-div.logo-wrapper{ float: left; } 
-div.logo-wrapper img{ display: inline-block; } 
+div.logo-wrapper{ float: left; }
+div.logo-wrapper img{ display: inline-block; }
 #announcement {float:left; position:relative; font-family: 'Droid Serif', serif; font-size: 15px; font-weight:bold; color: #000; width: 450px; margin: 65px 0 0 60px; }
 #announcement p {background: #FFFFCC; border: 1px solid #E6E68A; padding: 10px 20px;}
 #announcement div.custom-sidebar {margin-bottom: 0}
@@ -230,7 +230,7 @@ div#main-superfish-wrapper{margin-left:5px;}
 .widget_nav_menu a {color: #666; font-size: 14px; font-family: 'Droid Serif', serif}
 .widget_nav_menu a:hover {color: #F14471}
 .widget_nav_menu .current-menu-item  a, .widget_nav_menu .current-menu-item  a:hover, .single-portfolio div.custom-sidebar ul li#menu-item-1362 a, .single-portfolio div.custom-sidebar ul li#menu-item-1362 a:hover  {color: #111; text-decoration:none}
-div.custom-sidebar ul li.current-menu-item, .single-portfolio div.custom-sidebar ul li#menu-item-1362 {background: url("/wp-content/themes/modernize-v3-11/images/icon/dark/arrow-red.png") no-repeat scroll 0 14px transparent;} 
+div.custom-sidebar ul li.current-menu-item, .single-portfolio div.custom-sidebar ul li#menu-item-1362 {background: url("/wordpress-themes/modernize-v3-11/images/icon/dark/arrow-red.png") no-repeat scroll 0 14px transparent;}
 
 
 /*--- Search Form ---*/
@@ -246,7 +246,7 @@ div.content-wrapper{position:relative;}
 /*---- Home ---*/
 #home-teasers {float: left; position:relative; width: 980px; margin: -20px 0 0 -30px; }
 #home-teasers li {width: 231px; width: 24.7%; border-right: 1px dashed #ddd; float: left; position:relative; list-style-type:none;  border-top: 1px solid #eee}
-#home-teasers li.last {border-right:none} 
+#home-teasers li.last {border-right:none}
 #home-teasers div {padding: 15px 10px; text-align: center;}
 #home-teasers div a { color: #676767; display:block; padding: 10px}
 #home-teasers div:hover, #home-teasers div:hover h2, #home-teasers div:hover a {color: #fff;}
@@ -790,11 +790,11 @@ ul.products li.product .price { font-size: 15px; text-decoration: none;  }
 .woocommerce-page table.shop_attributes td{ padding-left: 10px; }
 .woocommerce-page #payment label, .woocommerce-page #payment legend, .woocommerce-page #payment label img{ display: inline; }
 
-/* Print 
+/* Print
 ------------------------------------------------------------------*/
 
 @media print {
-* { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; box-shadow:none !important } 
+* { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; box-shadow:none !important }
 body {width: 100%;}
 .top-navigation-wrapper, .main-navigation-wrapper, .footer-container-wrapper, .copyright-container-wrapper, .left-sidebar-wrapper, .gdl-left-sidebar, div.gdl-left-sidebar, .gdl-right-sidebar, div.gdl-right-sidebar, .single-port-nav, div.testimonial-icon, .jcarousellite li, a.stunning-text-button, h3.testimonial-header-title, .flex-caption {display:none}
 .container .both-sidebar-included .gdl-page-item .twelve.columns, .container .both-sidebar-included .gdl-page-item .sixteen.columns, .container .both-sidebar-included .gdl-page-item .two-thirds.column, .shortcode1-4, .gdl-page-item, .container .sidebar-included .gdl-page-item .sixteen.columns, .container .sixteen.columns, .column, .columns, .both-sidebar-included .gdl-page-item, div.gdl-page-float-left, div.gdl-page-content, div.gdl-page-item, #home-teasers {float: none; width: 16cm !important; margin: 20px 0 0 5px}
@@ -811,4 +811,3 @@ img { max-width: 100% !important; }
 p, h2, h3 { orphans: 3; widows: 3; }
 h2, h3 { page-break-after: avoid; }
 }
-

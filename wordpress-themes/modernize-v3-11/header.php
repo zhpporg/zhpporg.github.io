@@ -30,7 +30,7 @@
 	
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="<?php echo GOODLAYERS_PATH; ?>/stylesheet/ie-style.php?path=<?php echo GOODLAYERS_PATH; ?>" type="text/css" media="screen, projection" /> 
-		<script type="text/javascript" src="/wp-content/themes/modernize-v3-11/javascript/respond-min.js"></script>
+		<script type="text/javascript" src="/wordpress-themes/modernize-v3-11/javascript/respond-min.js"></script>
 	<![endif]-->
 
 	<!--[if IE 7]>

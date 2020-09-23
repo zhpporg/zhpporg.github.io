@@ -1,4 +1,4 @@
-html{ background-image: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/pattern/pattern-1.png); } 
+html{ background-image: url(/wordpress-themes/modernize-v3-11/images/pattern/pattern-1.png); } 
 html{ background-color: #dddddd; } 
 .logo-wrapper{ padding-top: 5px; padding-left: 0px; padding-bottom: 1px; } 
 .social-wrapper{ margin-top: 33px; } 
@@ -47,7 +47,7 @@ table, table tr, table tr td, table tr th{ border-color: #e5e5e5; }
 .top-navigation-wrapper, .top-navigation-left li a{ color: #e7e7e7 !important; background-color: #333333 !important; } 
 .top-navigation-left li a{ border-right: 1px solid #a2a2a2 !important; } 
 .top-navigation-wrapper-gimmick{ background-color: #ed154e !important; } 
-div.navigation-wrapper{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/gradient-top-gray-40px.png) repeat-x;; } 
+div.navigation-wrapper{ background: url(/wordpress-themes/modernize-v3-11/images/gradient-top-gray-40px.png) repeat-x;; } 
 .navigation-wrapper{ border-top: 1px solid #ececec !important; border-bottom: 1px solid #ececec !important; -moz-box-shadow: 0px 1px 5px -1px #f5f5f5; -webkit-box-shadow: 0px 1px 5px -1px #f5f5f5; box-shadow: 0px 1px 5px -1px #f5f5f5; } 
 .navigation-wrapper .sf-menu ul, .navigation-wrapper .sf-menu ul li{ border-color: #dfdfdf !important; } 
 .navigation-wrapper{ background-color: #181818 !important; } 
@@ -97,27 +97,27 @@ div.gallery-thumbnail-image, div.custom-sidebar .recent-post-widget-thumbnail, .
 div.right-sidebar-wrapper{ -moz-box-shadow: inset 3px 0px 3px -3px #ececec; -webkit-box-shadow: inset 3px 0px 3px -3px #ececec; box-shadow: inset 3px 0px 3px -3px #ececec; } 
 div.left-sidebar-wrapper{ -moz-box-shadow: inset -3px 0px 3px -3px #ececec; -webkit-box-shadow: inset -3px 0px 3px -3px #ececec; box-shadow: inset -3px 0px 3px -3px #ececec; } 
 div.gdl-price-item .price-item.active{ -moz-box-shadow: 0px 0px 3px #ececec; -webkit-box-shadow: 0px 0px 3px #ececec; box-shadow: 0px 0px 3px #ececec; } 
-div.single-port-next-nav .right-arrow{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/arrow-right.png) no-repeat; } 
-div.single-port-prev-nav .left-arrow{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/arrow-left.png) no-repeat; } 
-div.single-thumbnail-author, div.archive-wrapper .blog-item .blog-thumbnail-author, div.blog-item-holder .blog-item2 .blog-thumbnail-author, div.blog-item-holder .blog-item3 .blog-thumbnail-author { background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/author.png) no-repeat 0px 1px; } 
-div.single-thumbnail-date, div.custom-sidebar .recent-post-widget-date, div.archive-wrapper .blog-item .blog-thumbnail-date, div.blog-item-holder .blog-item1 .blog-thumbnail-date, div.blog-item-holder .blog-item2 .blog-thumbnail-date, div.blog-item-holder .blog-item3 .blog-thumbnail-date{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/calendar.png) no-repeat 0px 1px; } 
-div.single-thumbnail-comment, div.archive-wrapper .blog-item .blog-thumbnail-comment, div.blog-item-holder .blog-item1 .blog-thumbnail-comment, div.blog-item-holder .blog-item2 .blog-thumbnail-comment, div.blog-item-holder .blog-item3 .blog-thumbnail-comment,div.custom-sidebar .recent-post-widget-comment-num{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/comment.png) no-repeat 0px 1px; } 
-div.single-thumbnail-tag, div.archive-wrapper .blog-item .blog-thumbnail-tag, div.blog-item-holder .blog-item2 .blog-thumbnail-tag, div.blog-item-holder .blog-item3 .blog-thumbnail-tag{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/tag.png) no-repeat; } 
-div.custom-sidebar #searchsubmit, div.search-wrapper input[type="submit"]{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/find-17px.png) no-repeat center; } 
-div.single-port-visit-website{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/link-small.png) no-repeat; } 
-span.accordion-head-image.active, span.toggle-box-head-image.active{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/minus-24px.png) no-repeat; } 
-span.accordion-head-image, span.toggle-box-head-image{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/plus-24px.png) no-repeat; } 
-div.jcarousellite-nav .prev, div.jcarousellite-nav .next{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/navigation-20px.png); } 
-div.testimonial-icon{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/quotes-18px.png); } 
-div.custom-sidebar ul li{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/arrow4.png) no-repeat 0px 14px; } 
-div.stunning-text-wrapper{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/left-cross-5px.png); } 
-div.personnal-widget-prev{ background-image: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/personnal-widget-left.png); } 
-div.personnal-widget-next{ background-image: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/personnal-widget-right.png); } 
-div.footer-wrapper div.custom-sidebar ul li{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/light/arrow4.png) no-repeat 0px 14px; } 
-div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/light/find-17px.png) no-repeat center; } 
-div.footer-wrapper div.custom-sidebar .recent-post-widget-comment-num{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/light/comment.png) no-repeat 0px 1px; } 
-div.footer-wrapper div.custom-sidebar .recent-post-widget-date{ background: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/light/calendar.png) no-repeat 0px 1px; } 
-div.footer-wrapper div.personnal-widget-prev{ background-image: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/personnal-widget-left.png); } 
-div.footer-wrapper div.personnal-widget-next{ background-image: url(http://www.zhpp.org/wp-content/themes/modernize-v3-11/images/icon/dark/personnal-widget-right.png); } 
+div.single-port-next-nav .right-arrow{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/arrow-right.png) no-repeat; } 
+div.single-port-prev-nav .left-arrow{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/arrow-left.png) no-repeat; } 
+div.single-thumbnail-author, div.archive-wrapper .blog-item .blog-thumbnail-author, div.blog-item-holder .blog-item2 .blog-thumbnail-author, div.blog-item-holder .blog-item3 .blog-thumbnail-author { background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/author.png) no-repeat 0px 1px; } 
+div.single-thumbnail-date, div.custom-sidebar .recent-post-widget-date, div.archive-wrapper .blog-item .blog-thumbnail-date, div.blog-item-holder .blog-item1 .blog-thumbnail-date, div.blog-item-holder .blog-item2 .blog-thumbnail-date, div.blog-item-holder .blog-item3 .blog-thumbnail-date{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/calendar.png) no-repeat 0px 1px; } 
+div.single-thumbnail-comment, div.archive-wrapper .blog-item .blog-thumbnail-comment, div.blog-item-holder .blog-item1 .blog-thumbnail-comment, div.blog-item-holder .blog-item2 .blog-thumbnail-comment, div.blog-item-holder .blog-item3 .blog-thumbnail-comment,div.custom-sidebar .recent-post-widget-comment-num{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/comment.png) no-repeat 0px 1px; } 
+div.single-thumbnail-tag, div.archive-wrapper .blog-item .blog-thumbnail-tag, div.blog-item-holder .blog-item2 .blog-thumbnail-tag, div.blog-item-holder .blog-item3 .blog-thumbnail-tag{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/tag.png) no-repeat; } 
+div.custom-sidebar #searchsubmit, div.search-wrapper input[type="submit"]{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/find-17px.png) no-repeat center; } 
+div.single-port-visit-website{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/link-small.png) no-repeat; } 
+span.accordion-head-image.active, span.toggle-box-head-image.active{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/minus-24px.png) no-repeat; } 
+span.accordion-head-image, span.toggle-box-head-image{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/plus-24px.png) no-repeat; } 
+div.jcarousellite-nav .prev, div.jcarousellite-nav .next{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/navigation-20px.png); } 
+div.testimonial-icon{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/quotes-18px.png); } 
+div.custom-sidebar ul li{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/arrow4.png) no-repeat 0px 14px; } 
+div.stunning-text-wrapper{ background: url(/wordpress-themes/modernize-v3-11/images/icon/dark/left-cross-5px.png); } 
+div.personnal-widget-prev{ background-image: url(/wordpress-themes/modernize-v3-11/images/icon/dark/personnal-widget-left.png); } 
+div.personnal-widget-next{ background-image: url(/wordpress-themes/modernize-v3-11/images/icon/dark/personnal-widget-right.png); } 
+div.footer-wrapper div.custom-sidebar ul li{ background: url(/wordpress-themes/modernize-v3-11/images/icon/light/arrow4.png) no-repeat 0px 14px; } 
+div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(/wordpress-themes/modernize-v3-11/images/icon/light/find-17px.png) no-repeat center; } 
+div.footer-wrapper div.custom-sidebar .recent-post-widget-comment-num{ background: url(/wordpress-themes/modernize-v3-11/images/icon/light/comment.png) no-repeat 0px 1px; } 
+div.footer-wrapper div.custom-sidebar .recent-post-widget-date{ background: url(/wordpress-themes/modernize-v3-11/images/icon/light/calendar.png) no-repeat 0px 1px; } 
+div.footer-wrapper div.personnal-widget-prev{ background-image: url(/wordpress-themes/modernize-v3-11/images/icon/dark/personnal-widget-left.png); } 
+div.footer-wrapper div.personnal-widget-next{ background-image: url(/wordpress-themes/modernize-v3-11/images/icon/dark/personnal-widget-right.png); } 
 
 div.all-container-wrapper{ background: #ffffff; -moz-box-shadow: 0px 0px 8px #bbbbbb; -webkit-box-shadow: 0px 0px 8px #bbbbbb; box-shadow: 0px 0px 8px #bbbbbb; } 
